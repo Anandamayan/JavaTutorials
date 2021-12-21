@@ -2,7 +2,7 @@ package demo;
 // Example program1 for Constructor
 public class Test 
 {
-	Test()
+	void Test()
 	{
 		System.out.println("Everforce");
 	}
@@ -12,6 +12,7 @@ public class Test
 		Test t2 = new Test();
 		Test t3 = new Test();
 		Test t4 = new Test();
+		
 		
 	}
 

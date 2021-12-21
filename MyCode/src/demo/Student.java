@@ -1,5 +1,5 @@
 package demo;
-// Example program for Constructor
+// Example program1 for Constructor
 public class Student 
 {
     String name;

@@ -1,5 +1,5 @@
 package demo;
-
+// Example program1 for Constructor
 public class Test 
 {
 	Test()

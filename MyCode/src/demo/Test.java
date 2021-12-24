@@ -1,10 +1,11 @@
 package demo;
-// Example program1 for Constructor
+// Example program2 for Constructor
 public class Test 
 {
-	void Test()
+    Test()
 	{
-		System.out.println("Everforce");
+		super();
+    	//System.out.println("Everforce");
 	}
 
 	public static void main(String[] args) {

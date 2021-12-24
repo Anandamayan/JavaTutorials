@@ -16,6 +16,6 @@ public class Booking {
         	 busNo =  scanner.nextInt();
         	 System.out.println("Enter date dd-mm-yyyy");
         	 String dateInput = scanner.next();
-        	 date.
+        	 
          }
 }
